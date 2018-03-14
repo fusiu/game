@@ -1,0 +1,1 @@
+gaming-server-service-redis
